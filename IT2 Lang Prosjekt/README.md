@@ -5,6 +5,7 @@ Det er den første gang jeg bruker denne Engine, og har fått masse hjelp fra Yo
 Her er mine referanser, kanskje du vil også lære av de:
 
 1- https://www.youtube.com/playlist?list=PLflAYKtRJ7dwtqA0FsZadrQGal8lWp-MM
+
 2- https://www.youtube.com/watch?v=1DwT5Xe8n6Y
 
 3- https://www.youtube.com/watch?v=1Uk1yhGtnOo
